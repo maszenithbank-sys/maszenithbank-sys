@@ -1,4 +1,4 @@
-# Hi, I'm MAS Zenith 👋
+# Hi, I'm MUHAMMAD ABDULKADIR SANI
 
 ### Software Engineer | Android Developer | Java | AI Training & Data
 
@@ -7,7 +7,7 @@ mobile and web applications, backend integrations, and practical software soluti
 
 I also work with AI training, data annotation, and AI evaluation projects.
 
-## 🚀 Core Skills
+##  Core Skills
 
 - Software Engineering
 - Android Application Development
@@ -20,7 +20,7 @@ I also work with AI training, data annotation, and AI evaluation projects.
 - AI Training & Data Projects
 - Application Testing & Deployment
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Mobile
 - Android
@@ -47,7 +47,7 @@ I also work with AI training, data annotation, and AI evaluation projects.
 - AI Response Evaluation
 - Data Quality Assessment
 
-## 📂 Projects
+##  Projects
 
 I'm building and documenting practical projects covering:
 
@@ -59,12 +59,12 @@ I'm building and documenting practical projects covering:
 - Server and deployment projects
 - AI training and evaluation projects
 
-## 🎯 Currently Building
+##  Currently Building
 
 A professional portfolio of software engineering projects
 demonstrating mobile development, API integration, media playback,
 authentication, testing, deployment, and AI-related work.
 
-## 📫 Contact
+##  Contact
 
 GitHub: https://github.com/maszenithbank-sys
